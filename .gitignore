@@ -1,0 +1,15 @@
+# Node.js 関連
+node_modules/
+frontend/node_modules/
+
+# Next.js のビルド成果物
+frontend/.next/
+frontend/out/
+
+# Rust 関連
+target/
+Cargo.lock
+
+# OS 関連
+.DS_Store
+Thumbs.db
